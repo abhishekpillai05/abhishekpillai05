@@ -59,7 +59,7 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Quantum Computing</b><br /><sub>Competitive hackathons & QML exploration</sub></p>
+  <p><b>Quantum Computing</b><br /><sub>QML exploration</sub></p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@
 
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
 </p>
 
 <p align="center"><b>Backend, Frontend & Databases</b></p>
