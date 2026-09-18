@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Quantum Computing</b><br /><sub>QML exploration</sub></p>
+  <p><b>Quantum Computing</b><br /><sub>Competitive hackathons & QML exploration</sub></p>
 </td>
 </tr>
 <tr>
@@ -76,13 +76,37 @@
 
 ---
 
-<h2 align="center">🔵 Featured Project Spotlight</h2>
+<h2 align="center">🔵 Featured Projects</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td align="center" style="padding: 22px;">
-  <h3>📚 Offline LMS</h3>
-  <p><i>An enterprise-grade offline-first Learning Management System built with NestJS, TypeScript, Prisma and PostgreSQL — with SCORM package management, course/SCO data modeling, content versioning, and PowerSync-driven sync between PostgreSQL and client-side SQLite.</i></p>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>📚 Offline LMS</h4>
+  <sub>Enterprise-grade offline-first Learning Management System built with NestJS, TypeScript, Prisma and PostgreSQL — SCORM package management, course/SCO data modeling, content versioning, and PowerSync-driven sync with client-side SQLite.</sub>
+</td>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>🧠 LipCap</h4>
+  <sub>AI-powered lip-reading system that converts silent lip movements from video into accurate text using deep learning & computer vision.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>⚡ Intelligent Energy Grid Management System</h4>
+  <sub>AI-powered grid management platform integrating predictive analytics and smart load balancing for efficient, resilient energy distribution.</sub>
+</td>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>🚓 E-Bandobast</h4>
+  <sub>AI-enabled smart police deployment & monitoring system using GPS tracking, geofencing, and intelligent analytics.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>📦 Stock Master</h4>
+  <sub>Inventory management system for tracking stock levels and automating product entry, updates, and reporting.</sub>
+</td>
+<td width="50%" valign="top" style="padding: 14px;">
+  <h4>🌾 AgriFlow-AI</h4>
+  <sub>Intelligent agricultural supply chain platform predicting market prices and spoilage risk to help farmers cut post-harvest losses.</sub>
 </td>
 </tr>
 </table>
@@ -93,7 +117,7 @@
 
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
 </p>
 
 <p align="center"><b>Backend, Frontend & Databases</b></p>
@@ -101,16 +125,24 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
 </p>
 
-<p align="center"><b>Cybersecurity, Tools & DevOps</b></p>
+<p align="center"><b>Dev Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
 </p>
 
+<p align="center"><b>Cybersecurity</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=2563EB" alt="Wireshark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=2563EB" alt="Nmap" />
   &nbsp;
+  <img src="https://img.shields.io/badge/tcpdump-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=2563EB" alt="tcpdump" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=2563EB" alt="Kali Linux" />
+</p>
+
+<p align="center"><b>Other</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=2563EB" alt="Prisma" />
   &nbsp;
   <img src="https://img.shields.io/badge/Socket.IO-0a0a0a?style=for-the-badge&logo=socket.io&logoColor=2563EB" alt="Socket.IO" />
