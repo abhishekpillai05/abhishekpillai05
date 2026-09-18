@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/abhishekpillai05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Abhishek%20A%20Pillai%20%F0%9F%91%8B;Computer%20Engineering%20Student%20(AI%26ML)%20%F0%9F%8E%93;Full%20Stack%20%26%20AI%2FML%20Developer%20%F0%9F%92%BB;National-Level%20Hackathon%20Winner%20%F0%9F%8F%86;Turning%20ideas%20into%20production-ready%20systems%20%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Abhishek%20A%20Pillai%20%F0%9F%91%8B;Computer%20Engineering%20Student%20(AI%26ML)%20%F0%9F%8E%93;Full%20Stack%20%26%20AI%2FML%20Developer%20%F0%9F%92%BB;National-Level%20Hackathon%20Winner%20%F0%9F%8F%86;Turning%20ideas%20into%20production-ready%20systems%20%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <h2 align="center">🔵 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
