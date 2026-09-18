@@ -117,17 +117,17 @@
 
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" height="45" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" height="55" alt="Languages" />
 </p>
 
 <p align="center"><b>Backend, Frontend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" height="45" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" height="55" alt="Backend and Databases" />
 </p>
 
 <p align="center"><b>Cybersecurity, Tools & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="45" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="55" alt="Tools" />
 </p>
 
 <p align="center">
