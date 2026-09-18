@@ -59,7 +59,7 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Quantum Computing</b><br /><sub>Competitive hackathons & QML exploration</sub></p>
+  <p><b>Quantum Computing</b><br /><sub>QML exploration</sub></p>
 </td>
 </tr>
 <tr>
