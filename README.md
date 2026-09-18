@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
@@ -125,24 +125,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
 </p>
 
-<p align="center"><b>Dev Tools</b></p>
+<p align="center"><b>Cybersecurity, Tools & DevOps</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
 </p>
 
-<p align="center"><b>Cybersecurity</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=2563EB" alt="Wireshark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=2563EB" alt="Nmap" />
   &nbsp;
-  <img src="https://img.shields.io/badge/tcpdump-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=2563EB" alt="tcpdump" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=2563EB" alt="Kali Linux" />
-</p>
-
-<p align="center"><b>Other</b></p>
-<p align="center">
   <img src="https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=2563EB" alt="Prisma" />
   &nbsp;
   <img src="https://img.shields.io/badge/Socket.IO-0a0a0a?style=for-the-badge&logo=socket.io&logoColor=2563EB" alt="Socket.IO" />
