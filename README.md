@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/abhishekpillai05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Abhishek%20A%20Pillai%20%F0%9F%91%8B;Computer%20Engineering%20Student%20(AI%26ML)%20%F0%9F%8E%93;Full-Stack%20%26%20Backend%20Developer%20%F0%9F%92%BB;National-Level%20Hackathon%20Winner%20%F0%9F%8F%86;Turning%20ideas%20into%20production-ready%20systems%20%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Abhishek%20A%20Pillai%20%F0%9F%91%8B;Computer%20Engineering%20Student%20(AI%26ML)%20%F0%9F%8E%93;Full%20Stack%20%26%20AI%2FML%20Developer%20%F0%9F%92%BB;National-Level%20Hackathon%20Winner%20%F0%9F%8F%86;Turning%20ideas%20into%20production-ready%20systems%20%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/abhishekpillai05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   Hey! I'm <b>Abhishek A Pillai</b>, a Computer Engineering (AI &amp; ML, Honors) student at Padre Conceicao College of Engineering, Goa.<br />
-  I build full-stack web platforms and offline-first systems, and compete regularly in national and international hackathons.
+  I build full stack web apps and AI/ML solutions, and compete regularly in national and international hackathons.
 </p>
 
 <p align="center">
@@ -44,11 +44,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-B.E._Computer_Engg._(AI%26ML)-2563EB?style=flat-square" alt="Degree" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Backend-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AIML-111111?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> Node.js, NestJS, React, PostgreSQL & Prisma, offline-first architecture & applied ML.<br />
   ⚡ <b>Philosophy:</b> <i>"Compete hard, ship often, and let the hackathon deadlines do the debugging."</i>
 </p>
 
@@ -70,7 +69,7 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
-  <p><b>AI, Web &amp; Backend</b><br /><sub>Open to exciting new projects</sub></p>
+  <p><b>AI, Web &amp; Full Stack</b><br /><sub>Open to exciting new projects</sub></p>
 </td>
 </tr>
 </table>
@@ -104,7 +103,7 @@
 
 <p align="center"><b>Cybersecurity, Tools & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" width="100%" style="max-width: 380px;" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
 </p>
 
 <p align="center">
@@ -126,13 +125,13 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekpillai05&layout=compact&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&border_color=2563eb&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekpillai05&layout=compact&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpillai05&theme=dark&hide_border=false&border=2563eb&background=0a0a0a&ring=2563eb&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpillai05&theme=dark&hide_border=false&border=2563eb&background=0a0a0a&ring=2563eb&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=999999" width="100%" style="max-width: 420px;" alt="GitHub Streak" />
 </p>
 
 ---
@@ -141,20 +140,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  🥇 1st Place — <b>Quantexera 2026</b>, National-Level Hackathon<br />
-  🎓 Finalist — <b>IDEAS Innovation Challenge 2025</b>, presented before the Hon'ble IT Minister<br />
-  🥈 4th / 127 teams — International-level Quantum Technology hackathon<br />
-  🎖️ Special Recognition — Padre Conceicao College of Engineering, top honours 2025-26<br />
-  🔝 Top 15 pan-India — <b>Ignisia</b>, MIT-World Peace University AI Hackathon<br />
-  🔝 Top 20 across India — <b>Reckon 7.0</b><br />
-  🥈 Silver Certificate — Industry 4.0 & Industrial IoT, NPTEL/IIT Kharagpur
 </p>
 
 ---
@@ -187,7 +172,7 @@
   <a href="https://github.com/abhishekpillai05" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
     <br /><br />
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
   </a>
   <br />
   <sub><b>Code &amp; Projects</b></sub>
