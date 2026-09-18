@@ -117,17 +117,17 @@
 
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" height="45" alt="Languages" />
 </p>
 
 <p align="center"><b>Backend, Frontend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,postgres,mysql,sqlite,mongodb&theme=dark" height="45" alt="Backend and Databases" />
 </p>
 
 <p align="center"><b>Cybersecurity, Tools & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="45" alt="Tools" />
 </p>
 
 <p align="center">
@@ -149,13 +149,13 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&hide=issues&hide_rank=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&hide=issues&hide_rank=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekpillai05&layout=compact&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekpillai05&layout=compact&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&border_color=2563eb&border_radius=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpillai05&theme=dark&hide_border=false&border=2563eb&background=0a0a0a&ring=2563eb&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=999999" width="100%" style="max-width: 420px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpillai05&theme=dark&hide_border=false&border=2563eb&background=0a0a0a&ring=2563eb&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=999999" height="165" alt="GitHub Streak" />
 </p>
 
 ---
