@@ -42,13 +42,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Engg._(AI%26ML)-2563EB?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Engg._(AI%26ML)-111111?style=flat-square" alt="Degree" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AIML-111111?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  ⚡ <b>Philosophy:</b> <i>"Compete hard, ship often, and let the hackathon deadlines do the debugging."</i>
+  ⚡ <b>Philosophy:</b> <i>"Give me a deadline and a problem worth solving — I'll bring back a working build."</i>
 </p>
 
 <table width="100%" border="0" align="center">
@@ -59,7 +59,7 @@
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Backend Systems &amp; DSA</b><br /><sub>NestJS, System Design &amp; Applied ML</sub></p>
+  <p><b>Quantum Computing</b><br /><sub>Competitive hackathons & QML exploration</sub></p>
 </td>
 </tr>
 <tr>
@@ -125,21 +125,13 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhishekpillai05&show_icons=true&hide=issues&hide_rank=true&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&icon_color=2563eb&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekpillai05&layout=compact&bg_color=0a0a0a&title_color=2563eb&text_color=f3f4f6&border_color=2563eb&border_radius=8" width="100%" style="max-width: 420px;" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpillai05&theme=dark&hide_border=false&border=2563eb&background=0a0a0a&ring=2563eb&fire=2563eb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563eb&sideLabels=2563eb&dates=999999" width="100%" style="max-width: 420px;" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
